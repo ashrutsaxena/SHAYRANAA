@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Shayranaa</string>
+
+
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered ? Login Here</string>
+    <string name="logout">Logout</string>
+    <string name="reset_password">Reset Password</string>
+
+
+    <string name="phone_number">Phone Number</string>
+    <string name="email_not_verfied">Email Not Verfied !</string>
+    <string name="verify_now">Verify Now</string>
+    <string name="full_name">Full Name</string>
+
+
+    <string name="change_profile">Change Profile</string>
+    <string name="authenticator_app">Authenticator App</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_here_create_account">New Here ? Create Account</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email_address">Your Email Address</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="todo">TODO</string>
+    <string name="S">SHAYRANA</string>
+    <string name="success_always_comes_from_taking_calculated_risks">SUCCESS ALWAYS COMES FROM TAKING CALCULATED RISKS</string>
+    <string name="enter_correct_email">Enter Correct Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="L">LOG IN</string>
+    <string name="not_registered_register">Not Registered ? Register</string>
+
+    <string name="d">Create New Account</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="already_registered_log_in">Already Registered ? Log in</string>
+    <string name="email_not_verified">Email Not Verified!!</string>
+    <string name="c">Change Profile</string>
+    <string name="security">SECURITY</string>
+
+
+
+</resources>

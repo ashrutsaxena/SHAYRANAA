@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989604313118",
+    "firebase_url": "https://shayranaa-dcf65.firebaseio.com",
+    "project_id": "shayranaa-dcf65",
+    "storage_bucket": "shayranaa-dcf65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989604313118:android:949c14deab51b0e424960f",
+        "android_client_info": {
+          "package_name": "ashrut.saxena.destrution.shayranaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989604313118-95e82qjtra0ivbg97m5ik5j9ql5hpos3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ashrut.saxena.destrution.shayranaa",
+            "certificate_hash": "72fcf9ef3412a510f570138f6111d697c79c9fee"
+          }
+        },
+        {
+          "client_id": "989604313118-eoa1u0f7gba6sjleqmn7k49bnff4ckbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_37Xy1-rAGwwAfIZCfWpHF3ImtL6Teo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989604313118-eoa1u0f7gba6sjleqmn7k49bnff4ckbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
